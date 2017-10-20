@@ -1,0 +1,10 @@
+variable,type,data_set
+document_path,object,observations
+filename,object,observations
+category,object,observations
+text,object,observations
+tokens,object,observations
+indices,object,observations
+padded_indices,object,observations
+category_encoded,object,observations
+modeling_input,object,observations
